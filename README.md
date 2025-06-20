@@ -54,9 +54,8 @@ En mi tiempo libre me gusta leer, jugar, practicar idiomas y explorar nuevas tec
 
 ## 📫 Contacto
 
-- [Instagram](https://www.instagram.com/rothezee)
+- [Instagram](https://www.instagram.com/itszekki)
 - [Email](mailto:rothalan83@gmail.com)
-- [Portfolio](https://rothezee.github.io/portfolio-web/)
 
 ---
 
