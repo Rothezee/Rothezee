@@ -80,8 +80,8 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 Estoy abierto a participar en proyectos interesantes, colaborar en open source, o simplemente intercambiar ideas.  
 **¡No dudes en contactarme!**
 
-[![Gmail Badge](https://img.shields.io/badge/-tuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
+[![Gmail Badge](https://img.shields.io/badge/-rothalan83@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/tuusuario/)]([](https://www.linkedin.com/in/alan-ezequiel-fornes-roth-64167329a/)https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/alan-ezequiel-fornes-roth-64167329a/))
 
 ---
 
