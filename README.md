@@ -8,7 +8,7 @@ Apasionado por la tecnología, el desarrollo de software y la electrónica. Disf
 
 ## 👨‍💻 Sobre mí
 
-Soy Ezequiel Roth, desarrollador con sólida capacitacion en programación desde 2020 y un año y medio de experiencia real.  
+Soy Ezequiel Roth, desarrollador con sólida capacitacion en programación desde 2020 y un año y medio de experiencia real desde marzo 2024.  
 Me destaco por mi curiosidad, la capacidad de aprendizaje constante y el compromiso con la calidad en cada proyecto.  
 En estos años he gestionado y desarrollado proyectos propios y profecionales, abarcando desde aplicaciones web hasta sistemas embebidos con microcontroladores.  
 Amo resolver problemas, automatizar y optimizar procesos, y siempre busco nuevos desafíos para seguir creciendo.
