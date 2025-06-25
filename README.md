@@ -1,62 +1,96 @@
-# Hi, I'm Ezequiel Roth! 👋
+# ¡Hola! 👋 Soy Rothezee
 
-💻 **Fullstack Developer | Embedded Systems Enthusiast | Argentina**
-
-Apasionado por la tecnología, el desarrollo de software y la electrónica. Disfruto transformar ideas en soluciones útiles y creativas, tanto en el mundo web como en el de los microcontroladores.
+Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actualmente viviendo en Argentina. Me apasiona la tecnología, aprender continuamente y resolver problemas reales con soluciones innovadoras.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🚀 Sobre mí
 
-Soy Ezequiel Roth, desarrollador con sólida capacitacion en programación desde 2020 y un año y medio de experiencia real desde marzo 2024.  
-Me destaco por mi curiosidad, la capacidad de aprendizaje constante y el compromiso con la calidad en cada proyecto.  
-En estos años he gestionado y desarrollado proyectos propios y profecionales, abarcando desde aplicaciones web hasta sistemas embebidos con microcontroladores.  
-Amo resolver problemas, automatizar y optimizar procesos, y siempre busco nuevos desafíos para seguir creciendo.
-
-En mi tiempo libre me gusta leer, jugar, practicar idiomas y explorar nuevas tecnologías o plataformas.
+- 👨‍💻 Trabajo como único desarrollador encargado de sistemas embebidos en mi empresa.
+- 💡 Disfruto crear soluciones desde cero, desde la idea hasta la puesta en producción.
+- 🛠️ Me gusta experimentar con hardware y software, siempre buscando aprender algo nuevo.
+- 📆 Inicié mi trayectoria profesional hace 1 año y 3 meses, y cada día me motiva crecer más.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧰 Tecnologías y herramientas
 
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** PHP, Bash/Shell scripting, C, Python
-- **Bases de datos:** MySQL
-- **Microcontroladores:** Programación en C, manejo de ESP32, Arduino y sistemas embebidos, integración de sensores y actuadores (incluyendo control de piezoeléctricos)
-- **Herramientas:** Git
+**Frontend**
+- HTML, CSS (Sass, Bootstrap, Flexbox, Grid)
+- JavaScript (ES6+)
+- React *(aprendiendo)*
+- Vite *(aprendiendo)*
 
----
+**Backend**
+- Node.js *(aprendiendo)*
+- PHP
+- C, C++
+- Python
 
-## 🚀 Proyectos destacados
+**Bases de datos**
+- MySQL
+- SQLite
+- Firebase
 
-- Sistemas de monitoreo en tiempo real y automatización usando ESP32 y web.
-- Aplicaciones de gestión y automatización en Python.
-- Desarrollo de sistemas embebidos para control y sensado con microcontroladores.
-- Sitio web para publisitar y administrar reservas en complejo de cabañas
+**Sistemas embebidos**
+- ESP32, Arduino
+- Comunicaciones seriales, automatización, sensores
 
----
-
-## 🎓 Formación
-
-- 📘 **Tecnicatura en Informática Profesional y Personal**  
-  Escuela Tecnica N° 28 “Gral. Juan Martin de Pueyrredon” (2017–2023)
-- 📙 **Tecnicatura Universitaria en Web**  
-  Universidad Nacional de San Luis (2024–Presente)
-
----
-
-## 🌐 Idiomas
-
-- Español (Nativo)
-- Inglés (Intermedio)
+**Herramientas**
+- Git & GitHub
+- Linux & Shell scripting
+- Figma *(básico)*
 
 ---
 
-## 📫 Contacto
+## 💼 Proyectos destacados
 
-- [Instagram](https://www.instagram.com/itszekki)
-- [Email](mailto:rothalan83@gmail.com)
+- [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal): Aplicación web con HTML, CSS y JavaScript.
+- [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web): Sistema de reportes para máquinas de arcade (C++).
+- [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC): App en Python para expendedora de fichas.
+- [esp32_project](https://github.com/Rothezee/esp32_project): Plataforma web para manejo de reportes de máquinas de peluches (JavaScript, PHP).
+- [Ahorcado](https://github.com/Rothezee/Ahorcado): Juego clásico de ahorcado en C.
 
 ---
 
-_Siéntete libre de explorar mis proyectos, conectar o dejarme un mensaje. ¡Gracias por visitar mi portfolio!_
+## 📚 Formación
+
+- Técnico en Electrónica — [Nombre de la institución]
+- Actualmente cursando Ingeniería Electrónica — [Universidad]
+
+---
+
+## 🌎 Idiomas
+
+- Español nativo
+- Inglés técnico (lectura y documentación)
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- React y Vite para desarrollo frontend moderno
+- Node.js para backend y APIs REST
+- Mejores prácticas de testing y CI/CD
+
+---
+
+## 🤝 ¿Colaboramos?
+
+Estoy abierto a participar en proyectos interesantes, colaborar en open source, o simplemente intercambiar ideas.  
+**¡No dudes en contactarme!**
+
+[![Gmail Badge](https://img.shields.io/badge/-tuemail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tuemail@gmail.com)](mailto:tuemail@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tuusuario/)](https://www.linkedin.com/in/tuusuario/)
+
+---
+
+## 🎮 Hobbies
+
+- Videojuegos 🎮
+- Música 🎵
+- ¡Y aprender cosas nuevas siempre!
+
+---
+
+> *¡Gracias por visitar mi perfil!*
