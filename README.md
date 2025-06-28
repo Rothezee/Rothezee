@@ -18,6 +18,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 **Frontend**
 - HTML, CSS (Sass, Bootstrap, Flexbox, Grid)
 - JavaScript (ES6+)
+- Figma
 - React *(aprendiendo)*
 - Vite *(aprendiendo)*
 
@@ -26,6 +27,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 - PHP
 - C, C++
 - Python
+- Java
 
 **Bases de datos**
 - MySQL
@@ -55,15 +57,15 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 
 ## 📚 Formación
 
-- Técnico en Electrónica — [Nombre de la institución]
-- Actualmente cursando Ingeniería Electrónica — [Universidad]
+- Técnico en Informatica Profecional y Personal — Escuela Tecnica Nº28 "Gral. Juan Martin de Pueyrredon"
+- Actualmente cursando Tecnicatura Universitaria en Web — Universidad Nacional de San Luis
 
 ---
 
 ## 🌎 Idiomas
 
 - Español nativo
-- Inglés técnico (lectura y documentación)
+- Inglés técnico intermedio (lectura y documentación)
 
 ---
 
@@ -71,7 +73,6 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 
 - React y Vite para desarrollo frontend moderno
 - Node.js para backend y APIs REST
-- Mejores prácticas de testing y CI/CD
 
 ---
 
@@ -87,6 +88,7 @@ Estoy abierto a participar en proyectos interesantes, colaborar en open source, 
 
 ## 🎮 Hobbies
 
+- Deportes⛹️
 - Videojuegos 🎮
 - Música 🎵
 - ¡Y aprender cosas nuevas siempre!
