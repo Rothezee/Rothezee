@@ -17,7 +17,9 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 
 **Frontend**
 - HTML, CSS (Sass, Bootstrap, Flexbox, Grid)
+- Tailwind *(aprendiendo)*
 - JavaScript (ES6+)
+- Typescript *(aprendiendo)*
 - Figma
 - React *(aprendiendo)*
 - Vite *(aprendiendo)*
