@@ -24,6 +24,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 
 **Backend**
 - Node.js *(aprendiendo)*
+- Express *(aprendiendo)*
 - PHP
 - C, C++
 - Python
