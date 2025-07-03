@@ -52,12 +52,6 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   🧠 Juego clásico implementado en C como proyecto personal
 
 
-- [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal): Aplicación web con HTML, CSS y JavaScript.
-- [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web): Sistema de reportes para máquinas de arcade (C++).
-- [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC): App en Python para expendedora de fichas.
-- [esp32_project](https://github.com/Rothezee/esp32_project): Plataforma web para manejo de reportes de máquinas de peluches (JavaScript, PHP).
-- [Ahorcado](https://github.com/Rothezee/Ahorcado): Juego clásico de ahorcado en C.
-
 ---
 
 ## 📚 Formación
