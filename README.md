@@ -45,10 +45,12 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 - [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC) 
   💰 App de escritorio Python para control de fichas
 
-- [esp32_project](https://github.com/Rothezee/esp32_project)  
+- [esp32_project](https://github.com/Rothezee/esp32_project)
+- 
   📊 Panel web para monitoreo de máquina electromecánica (ESP32 + PHP)
 
-- [Ahorcado](https://github.com/Rothezee/Ahorcado) 
+- [Ahorcado](https://github.com/Rothezee/Ahorcado)
+- 
   🧠 Juego clásico implementado en C como proyecto personal
 
 
