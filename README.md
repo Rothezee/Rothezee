@@ -9,7 +9,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 - 👨‍💻 Trabajo como único desarrollador encargado de sistemas embebidos en mi empresa.
 - 💡 Disfruto crear soluciones desde cero, desde la idea hasta la puesta en producción.
 - 🛠️ Me gusta experimentar con hardware y software, siempre buscando aprender algo nuevo.
-- 📆 Inicié mi trayectoria profesional hace 1 año y 3 meses, y cada día me motiva crecer más.
+- 📆 Inicié mi trayectoria profesional hace 1 año y 4 meses, y cada día me motiva crecer más.
 
 ---
 
