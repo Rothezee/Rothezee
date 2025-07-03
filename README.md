@@ -39,13 +39,13 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 - [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal)  
   🌐 Web del complejo de cabañas con recorrido virtual (HTML, CSS, JS)
 
-- [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web)  
+- [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web) 
   🕹️ Backoffice para máquinas arcade (PHP, MySQL, JS)
 
 - [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC) 
   💰 App de escritorio Python para control de fichas
 
-- [esp32_project](https://github.com/Rothezee/esp32_project)
+- [esp32_project](https://github.com/Rothezee/esp32_project)<br>
   📊 Panel web para monitoreo de máquina electromecánica (ESP32 + PHP)
 
 - [Ahorcado](https://github.com/Rothezee/Ahorcado)
