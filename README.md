@@ -16,39 +16,41 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 ## 🧰 Tecnologías y herramientas
 
 **Frontend**
-- HTML, CSS (Sass, Bootstrap, Flexbox, Grid)
-- Tailwind *(aprendiendo)*
-- JavaScript (ES6+)
-- Typescript *(aprendiendo)*
-- Figma
-- React *(aprendiendo)*
-- Vite *(aprendiendo)*
+- ⚛️ React · 🎨 Tailwind CSS · ⚡ Vite
+- 🧑‍🎨 Figma · 💅 Sass · 🧱 Bootstrap · JS/TS
 
 **Backend**
-- Node.js *(aprendiendo)*
-- Express *(aprendiendo)*
-- PHP
-- C, C++
-- Python
-- Java
+- 🌐 Node.js · 🚂 Express · 🐘 PHP · 🐍 Python · ☕ Java
 
 **Bases de datos**
-- MySQL
-- SQLite
-- Firebase
+- 🛢️ MySQL · 🔥 Firebase · 💾 SQLite
 
-**Sistemas embebidos**
-- ESP32, Arduino
-- Comunicaciones seriales, automatización, sensores
+**Embebido**
+- 🤖 ESP32 · 🧠 Arduino · 📡 Serial · ⚙️ Sensores
 
 **Herramientas**
-- Git & GitHub
-- Linux & Shell scripting
-- Figma *(básico)*
+- 🛠️ Git · 🐧 Linux · 💻 Shell
+
 
 ---
 
 ## 💼 Proyectos destacados
+
+- [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal)  
+  🌐 Web del complejo de cabañas con recorrido virtual (HTML, CSS, JS)
+
+- [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web)  
+  🕹️ Backoffice para máquinas arcade (PHP, MySQL, JS)
+
+- [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC) 
+  💰 App de escritorio Python para control de fichas
+
+- [esp32_project]((https://github.com/Rothezee/esp32_project))  
+  📊 Panel web para monitoreo de máquina electromecánica (ESP32 + PHP)
+
+- [Ahorcado]((https://github.com/Rothezee/Ahorcado))  
+  🧠 Juego clásico implementado en C como proyecto personal
+
 
 - [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal): Aplicación web con HTML, CSS y JavaScript.
 - [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web): Sistema de reportes para máquinas de arcade (C++).
