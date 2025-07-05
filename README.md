@@ -48,7 +48,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://tse4.mm.bing.net/th/id/OIP.JYC7p0wmFvztSOuemRD7gQHaHa?pid=Api&P=0&h=180" alt="ESP32" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/515874/dexcom-g6.svg" alt="" width="36" height="36"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="" alt="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="36" height="36"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="raspberry" width="36" height="36"/></a>
 </p>
 
 ### Herramientas
