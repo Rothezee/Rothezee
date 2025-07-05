@@ -57,6 +57,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="GitHubDesktop" width="36" height="36"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="36" height="36"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.svgrepo.com/show/443534/brand-visualstudio.svg" alt="VisualStudio" width="36" height="36"/></a>
 </p>
 
 
