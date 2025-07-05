@@ -18,7 +18,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 ### Frontend
 <p align="left">
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="36" height="36"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://tse4.mm.bing.net/th/id/OIP.pEeKeUoENMqoN-kR8f8XoQHaFj?pid=Api&P=0&h=180)" alt="TailwindCSS" width="36" height="36"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="36" height="36"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="36" height="36"/></a>
   <a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="36" height="36"/></a>
