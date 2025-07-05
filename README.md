@@ -47,12 +47,14 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 <p align="left">
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://tse4.mm.bing.net/th/id/OIP.JYC7p0wmFvztSOuemRD7gQHaHa?pid=Api&P=0&h=180" alt="ESP32" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="36" height="36"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/515874/dexcom-g6.svg" alt="Arduino" width="36" height="36"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/515874/dexcom-g6.svg" alt="" width="36" height="36"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="" alt="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="36" height="36"/></a>
 </p>
 
 ### Herramientas
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="GitHubDesktop" width="36" height="36"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="36" height="36"/></a>
 </p>
