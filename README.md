@@ -34,6 +34,8 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://www.svgrepo.com/show/74933/json-file.svg" alt="Json" width="36" height="36"/></a>
+  
 </p>
 
 ### Bases de datos
