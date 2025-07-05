@@ -34,8 +34,6 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="36" height="36"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://www.svgrepo.com/show/74933/json-file.svg" alt="Json" width="36" height="36"/></a>
-  
 </p>
 
 ### Bases de datos
@@ -49,7 +47,6 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 <p align="left">
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://tse4.mm.bing.net/th/id/OIP.JYC7p0wmFvztSOuemRD7gQHaHa?pid=Api&P=0&h=180" alt="ESP32" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="36" height="36"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/515874/dexcom-g6.svg" alt="" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="raspberry" width="36" height="36"/></a>
 </p>
 
@@ -60,6 +57,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="36" height="36"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.svgrepo.com/show/443534/brand-visualstudio.svg" alt="VisualStudio" width="36" height="36"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://www.svgrepo.com/show/74933/json-file.svg" alt="Json" width="36" height="36"/></a>
 </p>
 
 
