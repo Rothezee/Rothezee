@@ -47,6 +47,7 @@ Soy desarrollador **Fullstack** y especialista en **sistemas embebidos**, actual
 <p align="left">
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="ESP32" width="36" height="36"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="36" height="36"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://www.svgrepo.com/show/515874/dexcom-g6.svg" alt="Arduino" width="36" height="36"/></a>
 </p>
 
 ### Herramientas
