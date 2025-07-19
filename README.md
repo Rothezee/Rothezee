@@ -79,7 +79,7 @@ const rothezee = {
 
 ## 🏆 Proyectos Destacados
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
