@@ -10,7 +10,7 @@
 </p>
 
 ### 🌟 Desarrollador Fullstack & Especialista en Sistemas Embebidos
-### 📍 Argentina | 💡 1 año 4 meses de experiencia profesional
+### 📍 Argentina | 💡 1 año 8 meses de experiencia profesional
 
 ---
 
