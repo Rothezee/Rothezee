@@ -10,7 +10,7 @@
 </p>
 
 ### 🌟 Desarrollador Fullstack & Especialista en Sistemas Embebidos
-### 📍 Argentina | 💡 1 año 9 meses de experiencia profesional
+### 📍 Argentina | 💡 2 años de experiencia profesional
 
 ---
 
@@ -22,7 +22,7 @@
 const rothezee = {
     role: "Fullstack Developer & Embedded Systems Specialist",
     location: "Argentina 🇦🇷",
-    experience: "1 año 9 meses",
+    experience: "2 años",
     passion: ["Tecnología", "Aprendizaje continuo", "Resolver problemas reales"],
     currentFocus: "Sistemas embebidos como único desarrollador en mi empresa",
     philosophy: "Desde la idea hasta la producción ✨"
