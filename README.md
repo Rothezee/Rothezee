@@ -1,230 +1,70 @@
 <div align="center">
 
-# 🚀 ¡Hola! Soy Rothezee 
+# Alan Ezequiel Roth
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Embedded+Systems+Specialist;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+**Fullstack Developer & Embedded Systems**  
+San Luis, Argentina · Técnico Informático en [Bonus](https://github.com/Rothezee)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rothezee.github.io-00F7FF?style=for-the-badge)](https://rothezee.github.io/portfolio-web/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Roth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ezequiel-fornes-roth-64167329a)
+[![Email](https://img.shields.io/badge/Email-rothalan83%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rothalan83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rothezee-181717?style=for-the-badge&logo=github)](https://github.com/Rothezee)
+
+</div>
+
+## Sobre mí
+
+Desarrollo software de punta a punta: web, escritorio y firmware. En **Bonus** soy el desarrollador que lleva los sistemas del local — reportes, expendedora, paneles IoT y control de máquinas arcade — desde la idea hasta que quedan en producción.
+
+Me interesa resolver problemas reales: automatizar lo que se hace a mano, conectar hardware con software y dejar herramientas que el negocio pueda usar todos los días.
+
+## Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rothezee&label=Profile%20views&color=0e75b6&style=flat" alt="rothezee" />
-  <img src="https://img.shields.io/github/followers/rothezee?label=Followers&style=social" alt="followers" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,php,python,java,cpp,c,mysql,git,linux,vscode" alt="Stack: React, TypeScript, JavaScript, HTML, CSS, Tailwind, Vite, Node.js, PHP, Python, Java, C++, C, MySQL, Git, Linux, VS Code" />
 </p>
 
-### 🌟 Desarrollador Fullstack & Especialista en Sistemas Embebidos
-### 📍 Argentina | 💡 2 años de experiencia profesional
+| Área | Tecnologías |
+|------|-------------|
+| Frontend | React, TypeScript, JavaScript, Tailwind, Vite |
+| Backend | Node.js, PHP, Python, Java |
+| Embebidos / IoT | C++, C, ESP32, Arduino, Raspberry Pi |
+| Datos | MySQL, SQLite |
+| Herramientas | Git, Linux, Bash, VS Code |
 
----
+## Proyectos destacados
 
-</div>
+Trabajo real en locales de entretenimiento: reportes, máquinas y hardware conectado.
 
-## 🎯 Sobre Mí
+| Proyecto | Qué hace | Stack |
+|----------|----------|--------|
+| [Sistema de reportes](https://github.com/Rothezee/Sistema-de-reportes-web) | Backoffice para un local arcade: ganancias por máquina, salida de peluches y premios | PHP · MySQL · JavaScript |
+| [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC) | App de escritorio para controlar una expendedora de fichas | Python |
+| [Esp32PanelControlReact](https://github.com/Rothezee/Esp32PanelControlReact) | Panel web para operar y monitorear un sistema embebido | React · TypeScript |
+| [ReporteGrua](https://github.com/Rothezee/ReporteGrua) | Reportes automáticos para una grúa de peluches | C++ |
+| [esp32_project](https://github.com/Rothezee/esp32_project) | Web de monitoreo para máquina electromecánica (ESP32) | ESP32 · PHP · IoT |
 
-```typescript
-const rothezee = {
-    role: "Fullstack Developer & Embedded Systems Specialist",
-    location: "Argentina 🇦🇷",
-    experience: "2 años",
-    passion: ["Tecnología", "Aprendizaje continuo", "Resolver problemas reales"],
-    currentFocus: "Sistemas embebidos como único desarrollador en mi empresa",
-    philosophy: "Desde la idea hasta la producción ✨"
-};
-```
+Más trabajo en el mismo eje: [KIDDIE](https://github.com/Rothezee/KIDDIE) (control de máquina), [bonus-playpark](https://github.com/Rothezee/bonus-playpark) y [ForgePC](https://github.com/Rothezee/ForgePC) (sistema de armado y venta de PCs, Java).
 
-<div align="center">
+## Formación
 
-## 🛠️ Stack Tecnológico
+- **Técnico en Informática** — Escuela Técnica Nº28 "Gral. Juan Martín de Pueyrredón" (2017–2023)
+- **Tecnicatura Universitaria en Web** — Universidad Nacional de San Luis (en curso)
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,vite,sass,bootstrap,figma" />
-</p>
+Español nativo · Inglés técnico intermedio
 
-### ⚙️ Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
-</p>
-
-### 🗄️ Bases de Datos
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
-</p>
-
-### 🔧 Sistemas Embebidos
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/>
-  <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" width="48" height="48"/>
-  <img src="https://tse4.mm.bing.net/th/id/OIP.JYC7p0wmFvztSOuemRD7gQHaHa?pid=Api&P=0&h=180" width="48" height="48"/>
-</p>
-
-### 🛠️ Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode" />
-</p>
-
-</div>
-
----
-
-## 📊 Estadísticas GitHub
+## GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rothezee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rothezee&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rothezee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" alt="Estadísticas de GitHub de Rothezee" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rothezee&layout=compact&langs_count=8&theme=tokyonight&hide_title=true" alt="Lenguajes más usados" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rothezee&theme=tokyonight" alt="rothezee" />
-</div>
+## Contacto
 
----
+Si tenés un proyecto de web, automatización o embebidos, escribime.
 
-## 🏆 Proyectos Destacados
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🌐 [Dweb-ProyectoFinal](https://github.com/Rothezee/Dweb-ProyectoFinal)
-**Web del complejo de cabañas con recorrido virtual**
-- `HTML` `CSS` `JavaScript`
-- Experiencia inmersiva para usuarios
-- Interfaz moderna y responsiva
-
-</td>
-<td width="50%">
-
-### 🕹️ [Sistema-de-reportes-web](https://github.com/Rothezee/Sistema-de-reportes-web)
-**Backoffice para máquinas arcade**
-- `PHP` `MySQL` `JavaScript`
-- Panel de control administrativo
-- Gestión de datos en tiempo real
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [EXPENDEDORA-MINI-PC](https://github.com/Rothezee/EXPENDEDORA-MINI-PC)
-**App de escritorio Python para control de fichas**
-- `Python` `GUI`
-- Automatización de procesos
-- Interfaz intuitiva
-
-</td>
-<td width="50%">
-
-### 📊 [esp32_project](https://github.com/Rothezee/esp32_project)
-**Panel web para monitoreo de máquina electromecánica**
-- `ESP32` `PHP` `IoT`
-- Monitoreo en tiempo real
-- Integración hardware-software
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎮 [Ahorcado](https://github.com/Rothezee/Ahorcado)
-**Juego clásico implementado en C**
-- Proyecto personal de práctica
-- Lógica de programación pura
-- `C Programming`
-
-</div>
-
----
-
-## 🎓 Formación & Aprendizaje
-
-<div align="center">
-
-```mermaid
-timeline
-    title Mi Trayectoria Académica
-    
-    section Educación Formal
-        Técnico en Informática : Escuela Técnica Nº28 "Gral. Juan Martín de Pueyrredón"
-        
-    section Educación Actual
-        Tecnicatura Universitaria en Web : Universidad Nacional de San Luis (En curso)
-        
-    section Aprendizaje Continuo
-        React & Vite : Desarrollo frontend moderno
-        Node.js : Backend y APIs REST
-```
-
-</div>
-
----
-
-## 🌍 Idiomas
-
-<div align="center">
-
-| Idioma | Nivel |
-|--------|-------|
-| 🇪🇸 **Español** | Nativo |
-| 🇺🇸 **Inglés** | Técnico Intermedio |
-
-</div>
-
----
-
-## 🎮 Cuando no estoy programando...
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### ⛹️ Deportes
-Manteniéndome activo y saludable
-
-</td>
-<td align="center">
-
-### 🎮 Videojuegos
-Relajación y estrategia
-
-</td>
-<td align="center">
-
-### 🎵 Música
-Inspiración y creatividad
-
-</td>
-<td align="center">
-
-### 📚 Aprendiendo
-Siempre algo nuevo por descubrir
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 ¡Conectemos!
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rothalan83@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rothezee)
-
-### 💡 ¿Tienes un proyecto interesante? ¡Hablemos!
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Siempre abierto a nuevos desafíos y colaboraciones
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-
-</div>
+- Portfolio: [rothezee.github.io/portfolio-web](https://rothezee.github.io/portfolio-web/)
+- Mail: [rothalan83@gmail.com](mailto:rothalan83@gmail.com)
+- LinkedIn: [alan-ezequiel-fornes-roth](https://www.linkedin.com/in/alan-ezequiel-fornes-roth-64167329a)
+- GitHub: [Rothezee](https://github.com/Rothezee)
