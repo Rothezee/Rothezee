@@ -56,8 +56,8 @@ Español nativo · Inglés técnico intermedio
 ## GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rothezee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" alt="Estadísticas de GitHub de Rothezee" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rothezee&layout=compact&langs_count=8&theme=tokyonight&hide_title=true" alt="Lenguajes más usados" />
+  <img src="./profile/stats.svg" alt="Estadísticas de GitHub de Rothezee" />
+  <img src="./profile/langs.svg" alt="Lenguajes más usados" />
 </div>
 
 ## Contacto
