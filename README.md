@@ -3,7 +3,7 @@
 # Alan Ezequiel Roth
 
 **Fullstack Developer & Embedded Systems**  
-San Luis, Argentina · Técnico Informático en [Bonus](https://github.com/Rothezee)
+San Luis, Argentina · Técnico Informático en [Bonus](https://maquinasbonus.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rothezee.github.io-00F7FF?style=for-the-badge)](https://rothezee.github.io/portfolio-web/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan%20Roth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ezequiel-fornes-roth-64167329a)
